@@ -1,11 +1,33 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    "net5.0-windows7.0": {
+      "ConsignmentShopLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ConsignmentShopLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsignmentShopLibrary.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ConsignmentShopLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ConsignmentShopLibrary/ConsignmentShopLibrary.csproj",
+      "msbuildProject": "../ConsignmentShopLibrary/ConsignmentShopLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    "net5.0-windows7.0": [
+      "ConsignmentShopLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ciaran.kelly\\.nuget\\packages\\": {}
@@ -33,7 +55,11 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Code\\ConsignmentApplication\\ConsignmentShopLibrary\\ConsignmentShopLibrary.csproj": {
+              "projectPath": "C:\\Code\\ConsignmentApplication\\ConsignmentShopLibrary\\ConsignmentShopLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
