@@ -16,3 +16,6 @@ C:\Code\ConsignmentApplication\ConsignmentApplication\obj\Debug\net5.0-windows\C
 C:\Code\ConsignmentApplication\ConsignmentApplication\obj\Debug\net5.0-windows\ref\ConsignmentApplication.dll
 C:\Code\ConsignmentApplication\ConsignmentApplication\obj\Debug\net5.0-windows\ConsignmentApplication.pdb
 C:\Code\ConsignmentApplication\ConsignmentApplication\obj\Debug\net5.0-windows\ConsignmentApplication.genruntimeconfig.cache
+C:\Code\ConsignmentApplication\ConsignmentApplication\bin\Debug\net5.0-windows\ConsignmentShopLibrary.dll
+C:\Code\ConsignmentApplication\ConsignmentApplication\bin\Debug\net5.0-windows\ConsignmentShopLibrary.pdb
+C:\Code\ConsignmentApplication\ConsignmentApplication\obj\Debug\net5.0-windows\ConsignmentApplication.csproj.CopyComplete

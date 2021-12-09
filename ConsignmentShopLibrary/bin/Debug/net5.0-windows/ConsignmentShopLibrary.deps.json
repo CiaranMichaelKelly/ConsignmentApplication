@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "ConsignmentApplication/1.0.0": {
-        "dependencies": {
-          "ConsignmentShopLibrary": "1.0.0"
-        },
-        "runtime": {
-          "ConsignmentApplication.dll": {}
-        }
-      },
       "ConsignmentShopLibrary/1.0.0": {
         "runtime": {
           "ConsignmentShopLibrary.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "ConsignmentApplication/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "ConsignmentShopLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,

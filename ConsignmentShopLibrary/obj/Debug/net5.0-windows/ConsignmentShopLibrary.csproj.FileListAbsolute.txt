@@ -1,0 +1,12 @@
+C:\Code\ConsignmentApplication\ConsignmentShopLibrary\bin\Debug\net5.0-windows\ConsignmentShopLibrary.deps.json
+C:\Code\ConsignmentApplication\ConsignmentShopLibrary\bin\Debug\net5.0-windows\ConsignmentShopLibrary.dll
+C:\Code\ConsignmentApplication\ConsignmentShopLibrary\bin\Debug\net5.0-windows\ref\ConsignmentShopLibrary.dll
+C:\Code\ConsignmentApplication\ConsignmentShopLibrary\bin\Debug\net5.0-windows\ConsignmentShopLibrary.pdb
+C:\Code\ConsignmentApplication\ConsignmentShopLibrary\obj\Debug\net5.0-windows\ConsignmentShopLibrary.csproj.AssemblyReference.cache
+C:\Code\ConsignmentApplication\ConsignmentShopLibrary\obj\Debug\net5.0-windows\ConsignmentShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ConsignmentApplication\ConsignmentShopLibrary\obj\Debug\net5.0-windows\ConsignmentShopLibrary.AssemblyInfoInputs.cache
+C:\Code\ConsignmentApplication\ConsignmentShopLibrary\obj\Debug\net5.0-windows\ConsignmentShopLibrary.AssemblyInfo.cs
+C:\Code\ConsignmentApplication\ConsignmentShopLibrary\obj\Debug\net5.0-windows\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Code\ConsignmentApplication\ConsignmentShopLibrary\obj\Debug\net5.0-windows\ConsignmentShopLibrary.dll
+C:\Code\ConsignmentApplication\ConsignmentShopLibrary\obj\Debug\net5.0-windows\ref\ConsignmentShopLibrary.dll
+C:\Code\ConsignmentApplication\ConsignmentShopLibrary\obj\Debug\net5.0-windows\ConsignmentShopLibrary.pdb
